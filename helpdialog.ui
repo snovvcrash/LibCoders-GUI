@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>HelpDialog</class>
+ <widget class="QDialog" name="HelpDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>711</width>
+    <height>341</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>711</width>
+    <height>341</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>711</width>
+    <height>341</height>
+   </size>
+  </property>
+  <property name="font">
+   <font>
+    <pointsize>10</pointsize>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>Help</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>671</width>
+     <height>271</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;TIPS &amp;amp; TRICKS:&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;• The app is made solely for education purpuses, so I would not recommend you to use it for real tasks.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;• Compressed and decompressed files are located in the root of LibCoders-GUI.exec directory.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;• The name of a compressed file is appended with this extension according to chosen compression method.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;• You can decompress only those files whose name ends with appropriate extension.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;• The extension of the compression method is removed from the filename during the decompression process.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;• There's no Cancel button (sorry for that), i. e. if you start the proccess you will have to wait for it to finish.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;• Feel free to contact me if you have any questions (see About dialog for contacts).&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt; font-style:italic;&quot;&gt;May the Force be with you :-)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="closeButton">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>300</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Close</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
