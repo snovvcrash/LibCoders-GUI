@@ -3,7 +3,7 @@ A GUI version of the [libcoders](https://github.com/snovvcrash/libcoders "libcod
 
 A simple library that lets you compress files (6 algorithms available: Shennon, Fano, Huffman, Bigram Huffman, Adaptive Huffman and Arithmetic coding) with Qt GUI. Made solely for educational purposes.
 
-## Screenshot
+## Screenshots
 ![Screenshot-1](https://user-images.githubusercontent.com/23141800/27843655-d82b8f54-611e-11e7-8a25-9dcf27c327dd.png)
 
 ## Building and requirements
