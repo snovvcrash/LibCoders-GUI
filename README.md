@@ -22,7 +22,4 @@ make
 Yep, the code sucks. This is my first Qt application so don't be too strict with me.
 
 ## Platform
-LibCoders-GUI is developed only for GNU/Linux.
-
-## Help
-There is a Help button in the main window of the app which invokes the dialog with all the nessesary explanations. Also feel free to contact me at <snovvcrash@protonmail.com>.
+LibCoders-GUI is developed for GNU/Linux only.
