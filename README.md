@@ -5,10 +5,10 @@ A simple Qt application that lets you compress files (6 algorithms available: Sh
 
 Made for educational purposes.
 
-## Screenshots
+# Screenshots
 ![Screenshot-1](https://user-images.githubusercontent.com/23141800/27843655-d82b8f54-611e-11e7-8a25-9dcf27c327dd.png)
 
-## Building and requirements
+# Building and requirements
 LibCoders-GUI is created via Qt framework so it needs QtCreator (or at least `qmake`) installed to be built:
 * Download Qt: https://www.qt.io/ide/
 
@@ -20,8 +20,8 @@ qmake ../LibCoders-GUI.pro -r -spec linux-g++-32 CONFIG+=debug
 make
 ```
 
-## Weird code?
+# Weird code?
 Yep, a little bit. That's because this app is just a GUI adaptation of the [CLI version](https://github.com/snovvcrash/libcoders "libcoders") libcoders library.
 
-## Platform
+# Platform
 LibCoders-GUI was developed for GNU/Linux only.
