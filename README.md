@@ -5,7 +5,7 @@ A simple Qt application that lets you compress files (6 algorithms available: Sh
 
 Made for educational purposes.
 
-# Screenshots
+# Screenshot
 ![Screenshot-1](https://user-images.githubusercontent.com/23141800/27843655-d82b8f54-611e-11e7-8a25-9dcf27c327dd.png)
 
 # Building and requirements
