@@ -8,7 +8,7 @@ Made for educational purposes.
 
 # Building and requirements
 LibCoders-GUI is created via Qt framework so it needs QtCreator (or at least `qmake`) installed to be built:
-* Download Qt: https://www.qt.io/ide/
+* Download Qt: https://www.qt.io/ide
 
 Building with `qmake`:
 ```
