@@ -19,7 +19,7 @@ make
 ```
 
 # Weird code?
-Yep, a little bit. That's because this app is just a GUI adaptation of the [CLI version](https://github.com/snovvcrash/libcoders "libcoders") libcoders library.
+Yep, a little bit. That's because this app is just a GUI adaptation of the CLI version [libcoders](https://github.com/snovvcrash/libcoders "libcoders") library.
 
 # Platform
 LibCoders-GUI was developed for GNU/Linux only.
