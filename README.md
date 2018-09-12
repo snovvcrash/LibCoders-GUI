@@ -1,7 +1,9 @@
 # LibCoders-GUI
 A GUI version of the [libcoders](https://github.com/snovvcrash/libcoders "libcoders") project.
 
-A simple Qt application that lets you compress files (6 algorithms available: Shennon, Fano, Huffman, Bigram Huffman, Adaptive Huffman and Arithmetic coding). Made solely for educational purposes.
+A simple Qt application that lets you compress files (6 algorithms available: Shennon, Fano, Huffman, Bigram Huffman, Adaptive Huffman and Arithmetic coding).
+
+Made for educational purposes.
 
 ## Screenshots
 ![Screenshot-1](https://user-images.githubusercontent.com/23141800/27843655-d82b8f54-611e-11e7-8a25-9dcf27c327dd.png)
@@ -22,4 +24,4 @@ make
 Yep, a little bit. That's because this app is just a GUI adaptation of the [CLI version](https://github.com/snovvcrash/libcoders "libcoders") libcoders library.
 
 ## Platform
-LibCoders-GUI is developed for GNU/Linux only.
+LibCoders-GUI was developed for GNU/Linux only.
